@@ -31,8 +31,8 @@ export default function Portfolio() {
       title: "Design",
     },
     {
-      id: "contact",
-      title: "Contact",
+      id: "content",
+      title: "Content",
     },
   ];
 
